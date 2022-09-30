@@ -1,4 +1,3 @@
-from this import d
 import pygame
 from random import randint, choice
 
